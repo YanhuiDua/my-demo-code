@@ -1,0 +1,6 @@
+kernel_name,kernel_type,stream_id,task_id,task_time(us),task_start(ns),task_stop(ns)
+BroadcastTo,KERNEL_AICORE,2,279,3133.87,"""3587066265610""","""3587069399480"""
+trans_Cast_0,KERNEL_AICORE,2,280,4093.79,"""3587069399860""","""3587073493650"""
+trans_Cast_3,KERNEL_AICORE,2,281,4089.14,"""3587073494040""","""3587077583180"""
+BatchMatMul,KERNEL_AICORE,2,282,10736.43,"""3587077583620""","""3587088320050"""
+trans_Cast_8,KERNEL_AICORE,2,283,2649.1,"""3587088320480""","""3587090969580"""

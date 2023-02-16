@@ -1,0 +1,4 @@
+OP Type,Core Type,Count,Total Time(us),Min Time(us),Avg Time(us),Max Time(us),Ratio(%)
+Cast,AI_CORE,3,10826.62,2648.96,3608.873,4091.65,43.7804
+BatchMatMul,AI_CORE,1,10744.03,10744.03,10744.03,10744.03,43.4464
+BroadcastToD,AI_CORE,1,3158.73,3158.73,3158.73,3158.73,12.7732

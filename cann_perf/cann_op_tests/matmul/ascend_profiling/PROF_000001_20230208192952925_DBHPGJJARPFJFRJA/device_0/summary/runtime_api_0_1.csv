@@ -1,0 +1,3 @@
+Name,Stream ID,Time(%),Time(ns),Calls,Avg(ns),Min(ns),Max(ns),Process ID,Thread ID
+DeviceSynchronize,1,98.0685,23855120,2,11927560,3230,23851890,0,121640
+KernelLaunch,1,1.9315,469830,5,93966,26180,231690,0,121640

@@ -1,0 +1,4 @@
+Name,Type,Time(%),Time(us),Count,Avg(us),Min(us),Max(us),Process ID,Thread ID
+OpCompile,ACL_OP,4.4121,44.72,3,14.9067,5.62,23.58,145726,145726
+aclopCompileAndExecute,ACL_OP,90.2997,915.26,3,305.0867,183.57,417.96,145726,145726
+aclrtSynchronizeDevice,ACL_RTS,5.2882,53.6,2,26.8,5.34,48.26,145726,145726

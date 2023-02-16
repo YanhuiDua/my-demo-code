@@ -1,0 +1,5 @@
+kernel_name,kernel_type,stream_id,task_id,task_time(us),task_start(ns),task_stop(ns)
+N/A,MEMCPY_ASYNC,2,252,1.14,"""15677349971750""","""15677349972890"""
+MatMul,KERNEL_AICORE,2,253,1.53,"""15677350385980""","""15677350387510"""
+trans_TransData_4,KERNEL_AICORE,2,254,1.59,"""15677350724730""","""15677350726320"""
+Add,KERNEL_AICORE,2,255,1.26,"""15677350799940""","""15677350801200"""

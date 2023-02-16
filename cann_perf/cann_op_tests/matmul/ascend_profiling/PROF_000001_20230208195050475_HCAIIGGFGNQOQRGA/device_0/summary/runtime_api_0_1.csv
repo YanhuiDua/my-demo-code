@@ -1,0 +1,5 @@
+Name,Stream ID,Time(%),Time(ns),Calls,Avg(ns),Min(ns),Max(ns),Process ID,Thread ID
+ContextGetCurrent,N/A,1.1498,4450,1,4450,4450,4450,0,145726
+DeviceSynchronize,N/A,11.6784,45200,2,22600,3210,41990,0,145726
+KernelLaunch,1,55.803,215980,4,53995,21690,132520,0,145726
+MemcpyAsync_3,1,31.3689,121410,1,121410,121410,121410,0,145726

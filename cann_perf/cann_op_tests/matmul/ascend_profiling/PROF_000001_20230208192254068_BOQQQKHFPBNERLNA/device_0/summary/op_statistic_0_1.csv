@@ -1,0 +1,4 @@
+OP Type,Core Type,Count,Total Time(us),Min Time(us),Avg Time(us),Max Time(us),Ratio(%)
+TransData,AI_CORE,2,3.37,1.59,1.685,1.78,55.9801
+MatMul,AI_CORE,1,1.47,1.47,1.47,1.47,24.4186
+Add,AI_CORE,1,1.18,1.18,1.18,1.18,19.6013
